@@ -1,6 +1,5 @@
 ###Book-Crossing
 ![Logo](https://cloud.githubusercontent.com/assets/5080310/13220998/186aac70-d99f-11e5-9527-6a8c97793f69.png)
-===============
 ---------------
 
 [Quiker](http://www.quikr.com/) like application for books with some other functionalities 
@@ -50,8 +49,11 @@ Prateek Chaudhry
 
 ### Screenshots
 
-[![](https://cloud.githubusercontent.com/assets/5080310/13196812/acac3648-d7ff-11e5-8a75-cbcaf2fc58bb.png)](https://cloud.githubusercontent.com/assets/5080310/13196812/acac3648-d7ff-11e5-8a75-cbcaf2fc58bb.png)
-[![](https://cloud.githubusercontent.com/assets/5080310/13196813/acdb1472-d7ff-11e5-8847-8c69193eae77.png)](https://cloud.githubusercontent.com/assets/5080310/13196813/acdb1472-d7ff-11e5-8847-8c69193eae77.png)
-[![](https://cloud.githubusercontent.com/assets/5080310/13196814/acff41c6-d7ff-11e5-880d-e6ab395af0e4.png)](https://cloud.githubusercontent.com/assets/5080310/13196814/acff41c6-d7ff-11e5-880d-e6ab395af0e4.png)
-[![](https://cloud.githubusercontent.com/assets/5080310/13196817/ad034d66-d7ff-11e5-8dc5-b3e859f58253.png)](https://cloud.githubusercontent.com/assets/5080310/13196817/ad034d66-d7ff-11e5-8dc5-b3e859f58253.png)
-[![](https://cloud.githubusercontent.com/assets/5080310/13196818/ad043c58-d7ff-11e5-9b29-24b613ecb3fe.png)](https://cloud.githubusercontent.com/assets/5080310/13196818/ad043c58-d7ff-11e5-9b29-24b613ecb3fe.png)
+![image](https://cloud.githubusercontent.com/assets/5080310/13220991/1817ef62-d99f-11e5-9c65-443679e32666.png)
+![image](https://cloud.githubusercontent.com/assets/5080310/13220989/1814a5d2-d99f-11e5-8a70-5ad338fe5158.png)
+![image](https://cloud.githubusercontent.com/assets/5080310/13220992/181c45a8-d99f-11e5-9a7d-c2e6cc747821.png)
+![image](https://cloud.githubusercontent.com/assets/5080310/13220994/18465dca-d99f-11e5-929e-2ffa0b58cced.png)
+![image](https://cloud.githubusercontent.com/assets/5080310/13220996/184a7824-d99f-11e5-9573-373f3acb5310.png)
+![All is well](https://cloud.githubusercontent.com/assets/5080310/13220997/184fe98a-d99f-11e5-938a-b919f886398c.png)
+![second last](https://cloud.githubusercontent.com/assets/5080310/13220993/183b589e-d99f-11e5-8fcf-d33a538fbc26.png)
+![last](https://cloud.githubusercontent.com/assets/5080310/13220995/184722f0-d99f-11e5-9452-c8185ac91e38.png)
