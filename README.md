@@ -1,4 +1,5 @@
 book-crossing
+![Logo](https://cloud.githubusercontent.com/assets/5080310/13220998/186aac70-d99f-11e5-9527-6a8c97793f69.png)
 =============
 ---------------
 
@@ -7,7 +8,7 @@ book-crossing
 The frontend of this application is developed using PHP and css and in the backend lies a postgreSQL database which handles all the add, delete, update, search etc querries.
 
 The database has all kinds of features like contraints, triggers, transactions, views etc which is fairly complex.
-   
+
 
 
 ## Organization
