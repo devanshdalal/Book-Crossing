@@ -1,4 +1,4 @@
-book-crossing
+###Book-Crossing
 ![Logo](https://cloud.githubusercontent.com/assets/5080310/13220998/186aac70-d99f-11e5-9527-6a8c97793f69.png)
 =============
 ---------------
@@ -9,7 +9,7 @@ The frontend of this application is developed using PHP and css and in the backe
 
 The database has all kinds of features like contraints, triggers, transactions, views etc which is fairly complex.
 
-
+![image](https://cloud.githubusercontent.com/assets/5080310/13220988/180eb1f4-d99f-11e5-8df1-61842cdf7b00.png)
 
 ## Organization
 --------------
