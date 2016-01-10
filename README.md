@@ -12,8 +12,8 @@ The database has all kinds of features like contraints, triggers, transactions, 
 
 ## Organization
 --------------
-Documentation.pdf contains the database configured at backend for the site.
-The main.html is the home page for the application. 
+Documentation.pdf contains the database configured at backend for the site. <br>
+The main.html is the home page for the application. <br>
 Detailed information about tables, their schema, constraints and triggers has been [specified](https://github.com/devanshdalal/Book-Crossing/blob/master/Documentation.pdf). 
 The Sources for where data was obtained/scraped/generated have been mentioned in file how data is generated.txt.
 
