@@ -43,9 +43,9 @@ TODO: Write history -->
 
 ## Credits
 
-Devansh Dalal <br>
-Shivam garg <br>
-Prateek Chaudhry
+[Devansh Dalal](https://github.com/devanshdalal) <br>
+[Shivam garg](https://github.com/shivgarg) <br>
+[Prateek Chaudhry](https://github.com/prateekchaudhry)<br>
 
 ### Screenshots
 
