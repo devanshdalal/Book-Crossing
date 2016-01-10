@@ -1,7 +1,7 @@
 book-crossing
 =============
 
-[Quiker](http://www.quikr.com/) for books with some other functionalities 
+[Quiker](http://www.quikr.com/) like application for books with some other functionalities 
 
 The frontend of this application is developed using PHP and css and in the backend lies a postgreSQL database which handles all the add, delete, update, search etc querries.
 
