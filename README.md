@@ -14,13 +14,13 @@ The database has all kinds of features like contraints, triggers, transactions, 
 --------------
 Documentation.pdf contains the database configured at backend for the site. <br>
 The main.html is the home page for the application. <br>
-Detailed information about tables, their schema, constraints and triggers has been [specified](https://github.com/devanshdalal/Book-Crossing/blob/master/Documentation.pdf). 
+Detailed information about tables, their schema, constraints and triggers has been [specified](https://github.com/devanshdalal/Book-Crossing/blob/master/Documentation.pdf). <br> 
 The Sources for where data was obtained/scraped/generated have been mentioned in file how data is generated.txt.
 
 
 ## Requirements
 --------------
-A working postgreSQL database and a browser to start the application   
+A working postgreSQL database and a browser to start the application  <br>
 All the instructions and data to initialize the database are present in scripts in 
 ```
 DB/ 
@@ -43,8 +43,8 @@ TODO: Write history -->
 
 ## Credits
 
-Devansh Dalal
-Shivam garg
+Devansh Dalal <br>
+Shivam garg <br>
 Prateek Chaudhry
 
 ### Screenshots
