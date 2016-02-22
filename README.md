@@ -29,7 +29,7 @@ trigger/
 ```
 
 ## Contributing
-
+----------------
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
@@ -42,13 +42,13 @@ TODO: Write history -->
 
 
 ## Credits
-
+----------------
 [Devansh Dalal](https://github.com/devanshdalal) <br>
 [Shivam garg](https://github.com/shivgarg) <br>
 [Prateek Chaudhry](https://github.com/prateekchaudhry)<br>
 
 ### Screenshots
-
+----------------
 ![image](https://cloud.githubusercontent.com/assets/5080310/13220991/1817ef62-d99f-11e5-9c65-443679e32666.png)
 ![image](https://cloud.githubusercontent.com/assets/5080310/13220989/1814a5d2-d99f-11e5-8a70-5ad338fe5158.png)
 ![image](https://cloud.githubusercontent.com/assets/5080310/13220992/181c45a8-d99f-11e5-9a7d-c2e6cc747821.png)
