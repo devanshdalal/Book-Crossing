@@ -50,10 +50,18 @@ TODO: Write history -->
 ### Screenshots
 ----------------
 ![image](https://cloud.githubusercontent.com/assets/5080310/13220991/1817ef62-d99f-11e5-9c65-443679e32666.png)
+----------------
 ![image](https://cloud.githubusercontent.com/assets/5080310/13220989/1814a5d2-d99f-11e5-8a70-5ad338fe5158.png)
+----------------
 ![image](https://cloud.githubusercontent.com/assets/5080310/13220992/181c45a8-d99f-11e5-9a7d-c2e6cc747821.png)
+----------------
 ![image](https://cloud.githubusercontent.com/assets/5080310/13220994/18465dca-d99f-11e5-929e-2ffa0b58cced.png)
+----------------
 ![image](https://cloud.githubusercontent.com/assets/5080310/13220996/184a7824-d99f-11e5-9573-373f3acb5310.png)
+----------------
 ![All is well](https://cloud.githubusercontent.com/assets/5080310/13220997/184fe98a-d99f-11e5-938a-b919f886398c.png)
+----------------
 ![second last](https://cloud.githubusercontent.com/assets/5080310/13220993/183b589e-d99f-11e5-8fcf-d33a538fbc26.png)
+----------------
 ![last](https://cloud.githubusercontent.com/assets/5080310/13220995/184722f0-d99f-11e5-9452-c8185ac91e38.png)
+----------------
